@@ -4,11 +4,6 @@
   padding: 0%;
 }
 
-@font-face {
-  font-family: fogo;
-  src: url(../../assets/fontes/Flame.ttf);
-}
-
 @-webkit-keyframes borderStatus {
   0% {
     border: #00bb3e solid 0.2rem;
